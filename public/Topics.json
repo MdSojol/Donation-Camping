@@ -1,0 +1,116 @@
+
+     [
+      {
+        "id" : "1",
+        "topic": "Clean water for children",
+        "category": "Health",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image_url": "../src/assets/images/Health.png",
+        "background_color": "rgb(0 82 255 / 14%)",
+        "text_color" : "#0052FF"
+
+      },
+      {
+        "id" : "2",
+        "topic": "Good education",
+        "category": "Education",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image_url": "../src/assets/images/Education.png",
+        "background_color": "rgb(255 68 74 / 14%)",
+        "text_color" : "#FF444A"
+      },
+      {
+        "id" : "3",
+        "topic": "Used Clothing Drive",
+        "category": "Clothing",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image_url": "../src/assets/images/Clothing.png",
+        "background_color": "rgb(121 194 63 / 14%)",
+        "text_color" : "#79C23F" 
+      },
+      {
+        "id" : "4",
+        "topic": "Better Food for Everyone",
+        "category": "Food",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image_url": "../src/assets/images/Food.png",
+        "background_color": "rgb(248 113 71 / 14%)",
+        "text_color" : "#F87147"
+      },
+      {
+        "id" : "5",
+        "topic": "Better Food for Everyone",
+        "category": "Food",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image_url": "../src/assets/images/Food.png",
+        "background_color": "rgb(248 113 71 / 14%)",
+        "text_color" : "#F87147"
+      },
+      {
+        "id" : "6",
+        "topic": "Used Clothing Drive",
+        "category": "Clothing",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image_url": "../src/assets/images/Clothing.png",
+        "background_color": "rgb(121 194 63 / 14%)",
+        "text_color" : "#79C23F" 
+      },
+      {
+        "id" : "7",
+        "topic": "Good education",
+        "category": "Education",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image_url": "../src/assets/images/Education.png",
+        "background_color": "rgb(255 68 74 / 14%)",
+        "text_color" : "#FF444A"
+      },
+      {
+        "id" : "8",
+        "topic": "Clean water for children",
+        "category": "Health",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image_url": "../src/assets/images/Health.png",
+        "background_color": "rgb(0 82 255 / 14%)",
+        "text_color" : "#0052FF"
+      },
+      {
+        "id" : "9",
+        "topic": "Clean water for children",
+        "category": "Health",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image_url": "../src/assets/images/Health.png",
+        "background_color": "rgb(0 82 255 / 14%)",
+        "text_color" : "#0052FF"
+      },
+      {
+        "id" : "10",
+        "topic": "Good education",
+        "category": "Education",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image_url": "../src/assets/images/Education.png",
+        "background_color": "rgb(255 68 74 / 14%)",
+        "text_color" : "#FF444A"
+      },
+      {
+        "id" : "11",
+        "topic": "Used Clothing Drive",
+        "category": "Clothing",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image_url": "../src/assets/images/Clothing.png",
+        "background_color": "rgb(121 194 63 / 14%)",
+        "text_color" : "#79C23F" 
+      },
+      {
+        "id" : "12",
+        "topic": "Better Food for Everyone",
+        "category": "Food",
+        "description" : "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+        "image_url": "../src/assets/images/Food.png",
+        "background_color": "rgb(248 113 71 / 14%)",
+        "text_color" : "#F87147"
+      }
+
+
+    ]
+  
+  

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&family=Inter:wght@100..900&family=Manrope:wght@200..800&display=swap');
+body{
+    font-family: "Inter", sans-serif; 
+};
+
+/* .home_background_images{
+    background-image: url("../src/assets/images/Home_Backgrounds.png");
+    background-size: cover ;
+    background-position: center center ;
+    background-repeat: no-repeat;
+} */
+
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
