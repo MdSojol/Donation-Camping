@@ -1,9 +1,34 @@
-const Donation = () => {
-    return (
-        <div>
+import { useEffect, useState } from "react";
+import { useLoaderData } from "react-router-dom";
+import { getStoredApplication } from "../LocalStorage/LocalSto";
+import DonationLocalSingle from "./DonationLocalSingle";
 
-            <h1>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse fugiat eveniet voluptas facilis perferendis repudiandae? Ex accusantium enim ducimus exercitationem illo aut fugit ut a cum praesentium? Quod accusantium molestiae dolorem quaerat aspernatur maiores perferendis necessitatibus, dolore laboriosam itaque voluptates error nobis vel praesentium ipsum quasi porro soluta optio enim possimus, tempora placeat laudantium! Itaque earum quisquam quis unde odit accusamus perspiciatis aliquam necessitatibus quo consequuntur modi aspernatur natus animi labore incidunt, sed, eos quaerat ipsum odio aliquid ea dicta illo dolorum? Iste officiis excepturi doloremque facere expedita asperiores modi inventore, recusandae quos, molestiae a ipsum illo quod quibusdam eos!</h1>
-            
+const Donation = () => {
+    const data = useLoaderData();
+    const [addingData, setData] = useState([])
+    // console.log(data)
+    useEffect(() => {
+        const storeJobIds = getStoredApplication();
+
+        const jobsApplied = data.filter(datas => storeJobIds?.includes(datas.id));
+        // const storeJobIdsIntigers = parseInt(storeJobIds)
+        // console.log(jobs, storeJobIds, jobsApplied)
+        setData(jobsApplied)
+        // console.log(storeJobIds)
+
+    }, [data]);
+    // console.log(addingData)
+    return (
+        <div className="container mx-auto">
+
+
+            <div className="grid grid-cols-2 gap-10 mt-10 mx-10">
+                {
+                    addingData.map(dataSingle => <DonationLocalSingle key={dataSingle.id} dataSingle={dataSingle}></DonationLocalSingle>)
+                }
+            </div>
+
+
         </div>
     );
 };

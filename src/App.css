@@ -3,3 +3,6 @@
  color: red !important;
  font-weight: bold !important;
 }
+.custom_background_color{
+    background-color: rgb(0 0 0 / 40%);
+}
