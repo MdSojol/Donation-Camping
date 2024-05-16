@@ -12,6 +12,7 @@ import NavbarBody from './Header/NavbarBody';
 import ViewDeatilse from './Body/ViewDeatilse';
 import Statistics from './Body/Statistics';
 
+
 const router = createBrowserRouter([
   {
     path: "/",

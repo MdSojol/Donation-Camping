@@ -10,6 +10,9 @@ const NavbarBody = () => {
         .then(res => res.json())
         .then(data => setTopics(data))
     },[])
+    
+    console.log(topics.length);
+    const chartValu = topics.length;
 
 
     return (
